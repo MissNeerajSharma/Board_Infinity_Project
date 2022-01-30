@@ -13,6 +13,6 @@ This analysis will help to track COVID-19 vaccination in the World, answer insta
 6. What are the Top 10 Vaccine around world?
 7. Asia continents covid 19  analysis ?!
 
-[PPt link](https://github.com/MissNeerajSharma/Board_Infinity_Project/blob/main/Excel%20Assignmnet/Dashboard.pptx)
-[Excel Project Link](https://github.com/MissNeerajSharma/Board_Infinity_Project/blob/main/Excel%20Assignmnet/Covid%20Vaccine%20Analysis.xlsm)
+<H6>[PPt link](https://github.com/MissNeerajSharma/Board_Infinity_Project/blob/main/Excel%20Assignmnet/Dashboard.pptx)<br></h6>
+<h6>[Excel Project Link](https://github.com/MissNeerajSharma/Board_Infinity_Project/blob/main/Excel%20Assignmnet/Covid%20Vaccine%20Analysis.xlsm)</h6>
 
